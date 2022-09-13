@@ -108,7 +108,7 @@ function Settings() {
           <h2>Select Question Type:</h2>
           <select value={questionType} onChange={handleTypeChange}>
             <option value="" key="type-0">
-              Allf
+              All
             </option>
             <option value="multiple" key="type-1">
               Multiple Choice
